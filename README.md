@@ -7,5 +7,5 @@ It was designed for cloud enthus to further improve their hands-on skill and to 
 The challenge involves building and deploying a cloud-based resume website that is fully serverless, secure, and uses modern cloud services. It combines both frontend and backend development, infrastructure as code, and CI/CD pipelines, all within a cloud environment. The project also requires integration with APIs and databases to track visitors to your resume site.
 But my design was excluded on how developer push/deploy/commit using CI/CD, I may yet do another updates to includes this step which explain the CI/CD portion
 
-![image](https://github.com/user-attachments/assets/6d4d4b56-7c33-4edf-ab1d-fc3a1ab1c81b)
+
 
