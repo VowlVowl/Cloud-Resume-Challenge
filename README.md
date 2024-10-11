@@ -8,5 +8,6 @@ The challenge involves building and deploying a cloud-based resume website that 
 But my design was excluded on how developer push/deploy/commit using CI/CD, I may yet do another updates to includes this step which explain the CI/CD portion
 
 
+![image](https://github.com/user-attachments/assets/598361cd-b486-4891-a204-f86b2a268c5b)
 
 
